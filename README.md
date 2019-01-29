@@ -16,10 +16,12 @@ Session steps through the following:
 
 ## Hands on material
 
-Link here
+To be added when finalised... 
 
 ## Sample flow
 
-[twitter_food_analysis_mq.json](https://github.com/mandieq/node-red-exeter/blob/master/twitter_food_analysis_mq.json)
+[twitter_food_analysis_mq.json](https://github.com/mandieq/node-red-exeter/blob/master/flows/twitter_food_analysis_mq.json)
+
+![Sample output](https://github.com/mandieq/node-red-exeter/raw/master/images/boiled_egg_dashboard.png)
 
 Based on the flow from John Walicki's hugely useful [Node-RED Twitter Workshop](https://github.com/johnwalicki/Node-RED-Twitter-Workshop) repository.
