@@ -20,6 +20,6 @@ Link here
 
 ## Sample flow
 
-Linke here
+[twitter_food_analysis_mq.json](https://github.com/mandieq/node-red-exeter/blob/master/twitter_food_analysis_mq.json)
 
 Based on the flow from John Walicki's hugely useful [Node-RED Twitter Workshop](https://github.com/johnwalicki/Node-RED-Twitter-Workshop) repository.
