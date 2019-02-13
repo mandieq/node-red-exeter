@@ -16,7 +16,7 @@ Session steps through the following:
 
 ## Hands on material
 
-To be added when finalised... 
+[Hands on guide](https://github.com/mandieq/node-red-exeter/blob/master/MQ_twitter_dashboard_2019.pdf)
 
 ## Sample flow
 
